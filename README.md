@@ -1,6 +1,6 @@
 # AI v knihovnách
 
-Interaktivní průvodce pětihodinovým workshopem pro české veřejné, obecní a městské knihovny.
+Interaktivní průvodce workshopem pro české veřejné, obecní a městské knihovny.
 
 ## Použití
 
@@ -19,3 +19,7 @@ Poznámky u cvičení se ukládají pouze do místního prohlížeče. Lze je st
 - `materialy/`: původní doprovodné dokumenty a cvičná data
 
 Statický web bez sestavení a bez serverového zpracování. GitHub Pages publikuje větev `main` z kořenového adresáře.
+
+## Organizace dne
+
+Začátek v 9:00, oběd 12:15–12:45. Jedna dopolední a jedna odpolední přestávka, každá 15 minut. Výukové bloky nemají předepsaný začátek ani délku.
