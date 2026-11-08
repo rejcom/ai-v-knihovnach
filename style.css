@@ -3,3 +3,5 @@
 
 /* Flexible teaching agenda. */
 .schedule-row{grid-template-columns:64px 1fr}.block-order{font:italic 28px Georgia,serif;color:var(--teal)}.day-rhythm{border-left:3px solid var(--teal);padding:6px 0 6px 25px;margin:0 0 36px}.day-rhythm p{margin:8px 0}.day-rhythm p:last-child{color:var(--muted);font-size:16px;max-width:720px}@media(max-width:850px){.schedule-row{grid-template-columns:42px 1fr}}
+
+.copilot-section{border-top:1px solid var(--line)}.copilot-guide{display:grid;grid-template-columns:1fr 1fr;gap:48px;margin-top:40px}.copilot-guide li{margin-bottom:13px}.copilot-guide ol{padding-left:25px}.publication{margin-top:48px;padding-top:40px;border-top:1px solid var(--line)}.reading-topic{color:var(--muted);font-size:13px}.publication .resource{align-items:center}.notice p:last-child{margin-bottom:0}@media(max-width:850px){.copilot-guide{grid-template-columns:1fr;gap:20px}nav a{font-size:13px}}

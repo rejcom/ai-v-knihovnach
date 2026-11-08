@@ -23,3 +23,9 @@ Statický web bez sestavení a bez serverového zpracování. GitHub Pages publi
 ## Organizace dne
 
 Začátek v 9:00, oběd 12:15–12:45. Jedna dopolední a jedna odpolední přestávka, každá 15 minut. Výukové bloky nemají předepsaný začátek ani délku.
+
+## Copilot Chat a doporučená publikace
+
+Základní postupy počítají s pracovním Copilot Chatem. Funkce závisejí na licenci a nastavení organizace; pro dokumenty je připravena i varianta s vloženým výňatkem. NotebookLM je volitelná alternativa.
+
+Karel Klatovský: [133 tipů pro AI v knihovnách](https://ai.klatovsky.cz/knihovny/). Web odkazuje na vybrané původní tipy; nekopíruje celou publikaci ani její zadání. Technické podmínky dokládají odkazy na Microsoft Learn přímo u postupu.
